@@ -169,3 +169,7 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 data/Extracted_values_4yearys.csv
+data/insar.ipynb
+data/final_results.csv
+data/data2.dbf-20250420T151602Z-001/data2.dbf
+data/insar.ipynb
